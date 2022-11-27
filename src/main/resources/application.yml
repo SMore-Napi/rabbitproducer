@@ -1,0 +1,5 @@
+server:
+  port: 8080
+rabbit:
+  queueName: ${QUEUE_NAME}
+  host: ${HOST_NAME}
